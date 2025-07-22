@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chihaohuang/)
-[![Instagram](https://img.shields.io/badge/Instagram--E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/blackhuang.jpg/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/blackhuang.jpg/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:huhu76543212001@gmail.com)
 
 ## About me
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I passed the JLPT N1
 
 ## 📊 GitHub Stats
-![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhuang0121&show_icons=true&theme=react)
+![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhuang0121&show_icons=true&theme=react=github-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react=github-dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=blackhuang0121&theme=react)](https://git.io/streak-stats)
 
