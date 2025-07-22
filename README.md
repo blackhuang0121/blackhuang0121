@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I passed the JLPT N1
 
 ## 📊 GitHub Stats
-
 ![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhuang0121&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react)
@@ -34,14 +33,14 @@ Here are some ideas to get you started:
 
 
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nextjs,nodejs,py,html,css,md,git,github,vscode,vercel,figma,ai,react,npm,&theme=light)](https://skillicons.dev)
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,react,npm&theme=light" /><br>
   <img src="https://skillicons.dev/icons?i=md,html,css,vercel,git&theme=light" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,github,figma,ai,ps&theme=light" />
 </div>
 
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,nextjs,nodejs,py,html,css,md,git,github,vscode,vercel,figma,ai,react,npm,&theme=light)](https://skillicons.dev)
+ -->
 
 ## 📦 Highlight Projects
 - [My blog](https://backtoblackblog.vercel.app/)
