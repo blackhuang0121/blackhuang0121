@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![My Info](https://skillicons.dev/icons?i=linkdin,instagram,github&theme=light)](https://skillicons.dev)
 - 🎯 Loyalty Program / Data Analysis / Python Automation
 - 🌱 Currently building data-driven BI tools & automation workflow
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chihaohuang/)
 
 ## 💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker-4285F4?logo=google-looker&logoColor=white)
