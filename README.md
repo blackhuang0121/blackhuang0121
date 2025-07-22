@@ -27,22 +27,10 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 ![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhuang0121&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=blackhuang0121&theme=react)](https://git.io/streak-stats)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=blackhuang0121&show_icons=true&theme=react" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=blackhuang0121&theme=react" />
-    </td>
-  </tr>
-</table>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=blackhuang0121&theme=react)](https://git.io/streak-stats)
 
 
 ## 💻 Skills
