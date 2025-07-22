@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I passed the JLPT N1
 
 ## 📊 GitHub Stats
-![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhuang0121&show_icons=true&theme=react=github-dark)
+![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhuang0121&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react=github-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=blackhuang0121&theme=react)](https://git.io/streak-stats)
 
