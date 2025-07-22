@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chihaohuang/)
-[![Instagram](https://img.shields.io/badge/Instagram-D14836?logo=instagram&logoColor=white)](https://www.instagram.com/blackhuang.jpg/)
+[![Instagram](https://img.shields.io/badge/Instagram--E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/blackhuang.jpg/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:huhu76543212001@gmail.com)
 
 ## About me
@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 ## 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,nextjs,nodejs,py,html,css,md,git,github,vscode,vercel,figma,ai,react,npm,&theme=light)](https://skillicons.dev)
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,nextjs,nodejs,react,npm&theme=light" /><br>
+  <img src="https://skillicons.dev/icons?i=md,html,css,vercel,git&theme=light" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,ai,ps&theme=light" />
+</div>
+
+
 ## 📦 Highlight Projects
 - [My blog](https://backtoblackblog.vercel.app/)
   > SaaS 產品內容行銷資料自動化產出、流量提升分析
@@ -45,6 +52,3 @@ Here are some ideas to get you started:
   > SaaS 產品內容行銷資料自動化產出、流量提升分析
 - [BetterMilk Membership Automation](https://github.com/xxx/bettermilk-cdp)  
   > 用 Python 建立會員 RFM 分析 + 資料自動化處理（2024 年正式上線 20,000 會員）
----
-
-*更多專案詳見 pinned repositories*
