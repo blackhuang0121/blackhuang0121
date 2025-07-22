@@ -30,16 +30,33 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=blackhuang0121&theme=react)](https://git.io/streak-stats)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=blackhuang0121&show_icons=true&theme=react" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhuang0121&layout=compact&theme=react" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=blackhuang0121&theme=react" />
+    </td>
+  </tr>
+</table>
+
+
 ## 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,nextjs,nodejs,py,html,css,md,git,github,vscode,vercel,figma,ai,react,npm,&theme=light)](https://skillicons.dev)
 
 ## 📦 Highlight Projects
-- [BetterMilk Membership Automation](https://github.com/xxx/bettermilk-cdp)  
-  > 用 Python 建立會員 RFM 分析 + 資料自動化處理（2024 年正式上線 20,000 會員）
+- [My blog](https://backtoblackblog.vercel.app/)
+  > SaaS 產品內容行銷資料自動化產出、流量提升分析
 - [Stock Market API Tracker](https://github.com/xxx/stock-tracker)  
   > 每日自動抓取台股、外匯數據 + Google Sheet API 整合，投資績效可視化
-- [CRM Content Analyzer](https://github.com/xxx/crm-analyzer)  
+- [Music Crawler & Automation](https://backtoblackblog.vercel.app/)
   > SaaS 產品內容行銷資料自動化產出、流量提升分析
+- [BetterMilk Membership Automation](https://github.com/xxx/bettermilk-cdp)  
+  > 用 Python 建立會員 RFM 分析 + 資料自動化處理（2024 年正式上線 20,000 會員）
 ---
 
 *更多專案詳見 pinned repositories*
