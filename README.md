@@ -1,5 +1,4 @@
-## Hi there 👋 I'm Howard Huang
-one-liner for myself
+### Hi there 👋 I'm Howard Huang
 <!--
 **blackhuang0121/blackhuang0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
