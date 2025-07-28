@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:huhu76543212001@gmail.com)
 
 ## About me
-- 🎯 Loyalty Program / Data Analysis / Python Automation
-- 🌱 Currently building my perpersonal blog for sharing photos I take (and creating data-driven BI tools & automation workflow as well)
-- ⚡ Fun fact: I passed the JLPT N1
+- 🎯 I’m a data-driven marketer with experience in loyalty program planning and automation.
+- 🌱 Currently using Next.js to build a personal blog for sharing photography and travel essays.
+- 🚀 Passionate about leveraging technology to solve business problems and optimize workflows.
+- ⚡ Fun fact:  I once lived in Kyoto as an exchange student and passed the JLPT N1.
 
 ## 📊 GitHub Stats
 ![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackhuang0121&show_icons=true&theme=react)
@@ -42,12 +43,8 @@ Here are some ideas to get you started:
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,nextjs,nodejs,py,html,css,md,git,github,vscode,vercel,figma,ai,react,npm,&theme=light)](https://skillicons.dev)
  -->
 
-## 📦 Highlight Projects
-- [My blog](https://backtoblackblog.vercel.app/)
-  > SaaS 產品內容行銷資料自動化產出、流量提升分析
-- [Stock Market API Tracker](https://github.com/xxx/stock-tracker)  
-  > 每日自動抓取台股、外匯數據 + Google Sheet API 整合，投資績效可視化
-- [Music Crawler & Automation](https://backtoblackblog.vercel.app/)
-  > SaaS 產品內容行銷資料自動化產出、流量提升分析
-- [BetterMilk Membership Automation](https://github.com/xxx/bettermilk-cdp)  
-  > 用 Python 建立會員 RFM 分析 + 資料自動化處理（2024 年正式上線 20,000 會員）
+## 📦 Side Projects
+- [My Personal Blog: backtoblack.blog](https://backtoblackblog.vercel.app/)
+  > Built with Next.js to share photography and travel essays.
+- [Auto Investment Tracker](https://github.com/blackhuang0121/auto-gsheet-bot)  
+  > Built with Python to automatically track investment portfolios by integrating with stock APIs and visualizing performance in Looker Studio.
